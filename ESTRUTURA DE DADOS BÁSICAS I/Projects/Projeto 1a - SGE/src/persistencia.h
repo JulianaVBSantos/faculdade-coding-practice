@@ -1,9 +1,9 @@
-// arquivo cabeçalho para os tópicos abaixo
-// 3.7 & 6 Gravação de Dados e Carregamento de Dados (Lipe)
+#ifndef PERSISTENCIA_H
+#define PERSISTENCIA_H
 
-#ifndef PERSISTENCIA.H
-#define PERSISTENCIA.H
+#include "estoque.h"
 
-/* declarações */
+void carregarEstoque(Estoque *estoque, const char *caminhoArquivo);
+void salvarEstoque(Estoque *estoque, const char *caminhoArquivo);
 
 #endif
