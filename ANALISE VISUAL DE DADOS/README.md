@@ -49,3 +49,35 @@ Os dados foram obtidos do Kaggle:
 2. Instale as dependências:
    ```bash
    pip install pandas openpyxl
+
+---
+
+📈 Possíveis Análises
+
+Comparar rating médio dos jogadores brasileiros por torneio.
+
+Ver ACS (average combat score) entre os times brasileiros.
+
+Comparar jogadores de destaque (ex: Aspas, mwzera, qck).
+
+Evolução da performance entre Challengers → International.
+
+Distribuição de headshot % por jogador.
+
+---
+
+👥 Equipe
+
+Juliana Vieira B. Santos
+
+Bernardo Paiva da Monte
+
+---
+
+📌 Status do Projeto
+
+--> Coleta e organização dos dados
+
+--> Análises estatísticas e gráficos (em andamento)
+
+-->️ Conclusões finais (a desenvolver)
