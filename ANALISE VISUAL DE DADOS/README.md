@@ -10,10 +10,7 @@ A análise será feita com base em estatísticas de jogadores em diferentes comp
 ---
 
 ## 📂 Estrutura do Projeto
-projeto-valorant
-┣ 📄 converter.py # Script para converter JSON → CSV
-
-┣ 📄 jogbrasileiros.py # Script para filtrar jogadores brasileiros
+projeto-valorant 
 
 ┣ 📄 Stats-Valorant.xlsx # Planilha com todas as abas (Challengers, Game Changer, International)
 
@@ -23,7 +20,9 @@ projeto-valorant
 
 ┣ 📄 vct-international.csv
 
-┣ 📄 jogadores_brasileiros.csv # Resultado com filtro de players BR
+┣ 📄 conversorJsonCSV.csv # Script para converter JSON → CSV
+
+┣ 📄 Stats.py # Organização do dataset em dataframe para futuras manipulações e filtros de dados
 
 ┗ 📄 README.md # Documentação do projeto
 
