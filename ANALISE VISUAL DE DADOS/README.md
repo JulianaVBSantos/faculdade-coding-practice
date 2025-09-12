@@ -51,7 +51,7 @@ Os dados foram obtidos do Kaggle:
 
 ---
 
-👥 Equipe
+Equipe
 
 Juliana Vieira Barbosa dos Santos
 
@@ -59,7 +59,7 @@ Bernardo Paiva da Monte
 
 ---
 
-📌 Status do Projeto
+Status do Projeto
 
 --> Coleta e organização dos dados
 
