@@ -1,15 +1,15 @@
-# 📊 Análise de Desempenho de Jogadores Brasileiros no Valorant (VCT 2024)
+# Análise de Desempenho de Jogadores Brasileiros no Valorant (VCT 2024)
 
-## 📌 Sobre o Projeto
+## Sobre o Projeto
 Este projeto tem como objetivo analisar o **desempenho de jogadores brasileiros** nos torneios oficiais do **Valorant Champions Tour 2024 (VCT)**.  
 A análise será feita com base em estatísticas de jogadores em diferentes competições:
 
-- 🏆 VCT International  
-- 🎮 VCT Game Changers  
-- ⚔️ VCT Challengers
+- VCT International  
+- VCT Game Changers  
+- ⚔VCT Challengers
 ---
 
-## 📂 Estrutura do Projeto
+## Estrutura do Projeto
 projeto-valorant 
 
 ┣ 📄 Stats-Valorant.xlsx # Planilha com todas as abas (Challengers, Game Changer, International)
@@ -28,13 +28,13 @@ projeto-valorant
 
 ---
 
-## 📊 Fontes de Dados
+## Fontes de Dados
 Os dados foram obtidos do Kaggle:  
 🔗 [Valorant Champions Tour 2024 Dataset](https://www.kaggle.com/datasets/sauurabhkr/valorant-champions-tour-2024)
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 - **Python 3.10+**
 - **Pandas** → manipulação de dados
 - **OpenPyXL** → leitura de Excel
@@ -43,7 +43,7 @@ Os dados foram obtidos do Kaggle:
 
 ---
 
-## 🚀 Como Executar
+## Como Executar
 1. Clone o repositório ou baixe os arquivos.
 2. Instale as dependências:
    ```bash
@@ -51,23 +51,9 @@ Os dados foram obtidos do Kaggle:
 
 ---
 
-📈 Possíveis Análises
-
-Comparar rating médio dos jogadores brasileiros por torneio.
-
-Ver ACS (average combat score) entre os times brasileiros.
-
-Comparar jogadores de destaque (ex: Aspas, mwzera, qck).
-
-Evolução da performance entre Challengers → International.
-
-Distribuição de headshot % por jogador.
-
----
-
 👥 Equipe
 
-Juliana Vieira B. Santos
+Juliana Vieira Barbosa dos Santos
 
 Bernardo Paiva da Monte
 
