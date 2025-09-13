@@ -6,25 +6,29 @@ A análise será feita com base em estatísticas de jogadores em diferentes comp
 
 - VCT International  
 - VCT Game Changers  
-- ⚔VCT Challengers
+- VCT Challengers
 ---
 
 ## Estrutura do Projeto
 projeto-valorant 
 
-┣ 📄 Stats-Valorant.xlsx # Planilha com todas as abas (Challengers, Game Changer, International)
+┣ Stats-Valorant.xlsx # Planilha com todas as abas (Challengers, Game Changer, International)
 
-┣ 📄 vct-challengers.csv # Dados convertidos (Kaggle → CSV)
+┣ vct-challengers.csv # Dados convertidos (Arquivo .json do Kaggle → CSV)
 
-┣ 📄 vct-game-changer.csv
+┣ vct-game-changer.csv # Dados convertidos (Arquivo .json do Kaggle → CSV)
 
-┣ 📄 vct-international.csv
+┣ vct-international.csv # Dados convertidos (Arquivo .json do Kaggle → CSV)
 
-┣ 📄 conversorJsonCSV.csv # Script para converter JSON → CSV
+┣ conversorJsonCSV.py # Script para converter JSON → CSV
 
-┣ 📄 Stats.py # Organização do dataset em dataframe para futuras manipulações e filtros de dados
+┣ Stats.py # Organização do dataset em dataframe para futuras manipulações e filtros de dados
 
-┗ 📄 README.md # Documentação do projeto
+┗ pStatisticsDataHandler.py # Segmentação do conjunto de dados estatísticos "playerStatistics"
+
+┗ agentsDataHandler.py # Segmentação do conjunto de dados estatísticos "agent"
+
+┗ README.md # Documentação do projeto
 
 ---
 
@@ -51,15 +55,7 @@ Os dados foram obtidos do Kaggle:
 
 ---
 
-Equipe
-
-Juliana Vieira Barbosa dos Santos
-
-Bernardo Paiva da Monte
-
----
-
-Status do Projeto
+### Status do Projeto
 
 --> Coleta e organização dos dados
 
