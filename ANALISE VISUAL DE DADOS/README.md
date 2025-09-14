@@ -1,7 +1,7 @@
-# Análise de Desempenho de Jogadores no Valorant (VCT 2024)
+# Análise de Desempenho dos Jogadores no Valorant (VCT 2024)
 
 ## Sobre o Projeto
-Este projeto tem como objetivo analisar o **desempenho de jogadores brasileiros** nos torneios oficiais do **Valorant Champions Tour 2024 (VCT)**.  
+Este projeto tem como objetivo analisar o **desempenho de jogadores** nos torneios oficiais do **Valorant Champions Tour 2024 (VCT)**.  
 A análise será feita com base em estatísticas de jogadores em diferentes competições:
 
 - VCT International  
